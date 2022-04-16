@@ -1,0 +1,115 @@
+{
+  "perros": [
+    {
+      "nombre": "Rocky",
+      "raza": "Rottweiler",
+      "edad": "3 Meses",
+      "ubicacion": "4140 Parker Rd Allentown New Mexico 31134",
+      "personalidad": ["Cariñoso", "Inquieto", "Jugueton"],
+      "historia": "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada.",
+      "usuario": "Maria Dolores",
+      "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+      "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895087/rocky_nm5azx.jpg",
+      "categoria": "perro"
+    },
+    {
+        "nombre": "Papi",
+        "raza": "Chihuahua",
+        "edad": "6 Meses",
+        "ubicacion": "New York City 14509",
+        "personalidad": ["Cariñoso", "Tierno", "Juguetón"],
+        "historia": "Papi se entregan desparasitada. Es muy cariñosa y juiciosa. fue encontrada junto a un árbol solita, la llevaron al veterinario le han realizado baños para curar sus problemas de piel desparasitación y tratamiento para las defensas.",
+        "usuario": "Valerie Santana",
+        "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+        "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895975/Chihuahua_zcl8kx.jpg",
+        "categoria": "perro"
+    },
+    {
+        "nombre": "Papi",
+        "raza": "Chihuahua",
+        "edad": "6 Meses",
+        "ubicacion": "New York City 14509",
+        "personalidad": ["Cariñoso", "Tierno", "Juguetón"],
+        "historia": "Papi se entregan desparasitada. Es muy cariñosa y juiciosa. fue encontrada junto a un árbol solita, la llevaron al veterinario le han realizado baños para curar sus problemas de piel desparasitación y tratamiento para las defensas.",
+        "usuario": "Valerie Santana",
+        "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+        "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895975/Chihuahua_zcl8kx.jpg",
+        "categoria": "perro"
+    },
+    {
+        "nombre": "Chester",
+        "raza": "Golden Retriever",
+        "edad": "1 Año",
+        "ubicacion": "Houston City 14909",
+        "personalidad": ["Cariñoso", "Tierno", "Aventurero"],
+        "historia": "Chester Este perrito estaba en un estado terrible de desnutrición y con muchos problemas de salud. Sin embargo, encontró su ángel y hoy está recuperada. Ya la esterilizaron, desparasitaron y tomó su nexgard para garrapatas.",
+        "usuario": "Valerie Santana",
+        "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+        "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649898440/golden_retriever_hrzfh8.jpg",
+        "categoria": "perro"
+    },
+    {
+        "nombre": "Pelusa",
+        "raza": "Bichon Frise",
+        "edad": "2 Años",
+        "ubicacion": "Houston City 14909",
+        "personalidad": ["Cariñoso", "Tierno", "Juguetón"],
+        "historia": "Desde que fue recogida ya fue desparasitada, inició su tratamiento de hemoparasitos, mejoró de manera increíble su apetito, quitamos todas las pulgas y garrapatas pegadas a su cuerpo, fue bañada y aunque todavía necesita un poco más de tiempo de su tratamiento, ya se encuentra con excelentes ánimos y en una mucho mejor condición de la que fue encontrada",
+        "usuario": "Valerie Santana",
+        "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+        "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649898606/Bichon-Frise_kg8b8e.webp",
+        "categoria": "perro"
+    }
+  ],
+  "gatos": [
+      {
+        "nombre": "Matilde",
+        "raza": "British Shorthair",
+        "edad": "6 Meses",
+        "ubicacion": "4140 Parker Rd. Allentown,New Mexico 31134",
+        "personalidad": ["Juguetón", "Inquiento", "Tierno"],
+        "historia": "Matilde es la mejor guarda espaldas, siempre esta hay para conversar y recibirá cada día con un fuerte cariño. Fue rescatada y busco una persona que le pueda dar todo el amor que ella necesita.",
+        "usuario": "Juan Jesus",
+        "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+        "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1650081382/matilde_uriibw.jpg",
+        "categoria": "gato"
+    },
+
+  {
+    "nombre": "Pelusa",
+    "raza": "Birmano",
+    "edad": "11 Meses",
+    "ubicacion": "4140 Parker Rd. Allentown",
+    "personalidad": ["Juguetón", "Cariñoso", "Tierno"],
+    "historia": "Sin mentirles es la gata más perfecta, aparte de que es hermosa, convive con perros y gatos, es súper amistosa y juiciosa, estamos buscando una casa donde ya haya otro gatico o perrito para que crezcan juntos y jueguen infinitamente",
+    "usuario": "Juan Jesus",
+    "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+    "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1650081925/pelusa_ismb9g.webp",
+    "categoria": "gato"
+  },
+  {
+    "nombre": "Kity",
+    "raza": "Bombay",
+    "edad": "9 Meses",
+    "ubicacion": "One Pace Plaza, New York, NY 10038, Estados Unidos",
+    "personalidad": ["Juguetón", "Inquieta", "Aventurero"],
+    "historia": " Un hermoso gatuno, tiene aproximadamente 1 año y medio, lo entregamos con su primera vacuna(triple viral), castrado y con sus pruebas vírales NEGATIVAS",
+    "usuario": "Juan Jesus",
+    "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+    "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1650082245/kitty_ypsmsf.jpg",
+    "categoria": "gato"
+  },
+  {
+    "nombre": "Bombon",
+    "raza": "Gato Americano",
+    "edad": "1 Año",
+    "ubicacion": "30 Cliff St, New York, NY 10038, Estados Unidos",
+    "personalidad": ["Juguetón", "Inquieta", "Cariñoso"],
+    "historia": " Lleva con nosotras unos cuantos días es súper amoroso y hermoso, creemos que tiene menos de 1 año o máximo 1, por ahora no está en adopción por que pronto tendrá cita con los vets para realizarle pruebas virales y ponerle su vacuna.",
+    "usuario": "Juan Jesus",
+    "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
+    "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1650083227/bombon_qjae2r.jpg",
+    "categoria": "gato"
+  }
+  ]
+  }
