@@ -12,18 +12,7 @@
       "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895087/rocky_nm5azx.jpg",
       "categoria": "perro"
     },
-    {
-        "nombre": "Papi",
-        "raza": "Chihuahua",
-        "edad": "6 Meses",
-        "ubicacion": "New York City 14509",
-        "personalidad": ["Cariñoso", "Tierno", "Juguetón"],
-        "historia": "Papi se entregan desparasitada. Es muy cariñosa y juiciosa. fue encontrada junto a un árbol solita, la llevaron al veterinario le han realizado baños para curar sus problemas de piel desparasitación y tratamiento para las defensas.",
-        "usuario": "Valerie Santana",
-        "imguser": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895015/user-13_w7gtun.jpg",
-        "imagen": "https://res.cloudinary.com/dgzfc4clj/image/upload/v1649895975/Chihuahua_zcl8kx.jpg",
-        "categoria": "perro"
-    },
+
     {
         "nombre": "Papi",
         "raza": "Chihuahua",
